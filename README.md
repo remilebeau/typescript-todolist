@@ -9,4 +9,6 @@ Created using:
 - TypeScript
 - Vite
 
-Credit to [Dave Gray Teaches Code](https://courses.davegray.codes/) for project idea and tutorial.
+Credit to [Dave Gray Teaches Code](https://courses.davegray.codes/) for project design and tutorial.
+
+[Link to Dave Gray's TypeScript Course](https://www.youtube.com/watch?v=gieEQFIfgYc)
