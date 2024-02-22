@@ -1,6 +1,6 @@
 # Todo List
 
-A single-page todo list app created using Vite and TypeScript.
+A single-page todo list. Built with TypeScript.
 
 # [Click here to launch the app](https://typescript-todolist.onrender.com)
 
